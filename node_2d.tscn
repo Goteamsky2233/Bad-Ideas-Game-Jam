@@ -34,3 +34,8 @@ shape = SubResource("RectangleShape2D_0e48y")
 position = Vector2(5.14984e-05, 0.25)
 scale = Vector2(9.04688, 0.15625)
 texture = ExtResource("1_0e48y")
+
+[node name="TextEdit" type="TextEdit" parent="."]
+offset_right = 1156.0
+offset_bottom = 128.0
+text = "wowzers!"
